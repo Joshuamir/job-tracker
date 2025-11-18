@@ -1,0 +1,31 @@
+# Job Tracker Configuration
+
+# Search keywords for job titles (case-insensitive)
+search_keywords:
+  - "Project Manager"
+  - "Programme Manager"
+  - "Program Manager"
+  - "PM"
+  - "Technical Project Manager"
+  - "TPM"
+  - "Senior Project Manager"
+  - "Junior Project Manager"
+
+# Scraping settings
+scraping:
+  timeout: 10  # Maximum seconds to wait for a website response
+  retry_attempts: 3  # Number of retry attempts for failed requests
+  retry_delay: 2  # Initial delay in seconds between retries (exponential backoff)
+  request_delay: 2  # Delay in seconds between requests to different websites
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# Notification settings
+notifications:
+  enabled: true  # Set to false to disable notifications
+  send_summary: true  # Send a summary after each run
+  max_jobs_per_notification: 10  # Maximum number of jobs to include in a single notification
+
+# Database settings
+database:
+  path: "jobs_database.json"  # Path to the JSON database file
+  backup_enabled: false  # Create backups of the database (optional)
