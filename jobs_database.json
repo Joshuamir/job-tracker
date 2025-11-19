@@ -69,10 +69,17 @@
       "url": "https://jobs.apple.com/en-us/details/200631049-0157/sox-pmo-it-advisor?team=CORSV",
       "first_seen": "2025-11-19T19:39:40.884583",
       "last_seen": "2025-11-19T22:42:39.849327"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200631822-0157/engineering-program-manager-infrastructure-services?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200631822-0157/engineering-program-manager-infrastructure-services?team=SFTWR",
+      "first_seen": "2025-11-19T23:20:55.115455",
+      "last_seen": "2025-11-19T23:20:55.115465"
     }
   },
   "metadata": {
-    "last_updated": "2025-11-19T22:42:39.849388",
-    "total_jobs": 10
+    "last_updated": "2025-11-19T23:20:55.115836",
+    "total_jobs": 11
   }
 }
