@@ -61,7 +61,7 @@
       "title": "New Product Technology Project Manager",
       "url": "https://jobs.apple.com/en-us/details/200628904-0836/new-product-technology-project-manager?team=HRDWR",
       "first_seen": "2025-11-19T19:39:40.884570",
-      "last_seen": "2025-11-19T22:21:32.137032"
+      "last_seen": "2025-11-20T18:33:31.532559"
     },
     "Apple||https://jobs.apple.com/en-us/details/200631049-0157/sox-pmo-it-advisor?team=CORSV": {
       "company": "Apple",
@@ -110,25 +110,39 @@
       "title": "ML Engineering Program Manager (EPM), Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200633320-2459/ml-engineering-program-manager-epm-apple-ads?team=SFTWR",
       "first_seen": "2025-11-20T16:53:41.435654",
-      "last_seen": "2025-11-20T17:41:49.283530"
+      "last_seen": "2025-11-20T18:33:31.532569"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633320-0836/ml-engineering-program-manager-epm-apple-ads?team=SFTWR": {
       "company": "Apple",
       "title": "ML Engineering Program Manager (EPM), Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200633320-0836/ml-engineering-program-manager-epm-apple-ads?team=SFTWR",
       "first_seen": "2025-11-20T16:53:41.435659",
-      "last_seen": "2025-11-20T17:41:49.283521"
+      "last_seen": "2025-11-20T18:33:31.532566"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633113-0836/ww-sales-bpr-program-manager-finance-and-sales-operations?team=SLDEV": {
       "company": "Apple",
       "title": "WW Sales BPR Program Manager, Finance and Sales Operations",
       "url": "https://jobs.apple.com/en-us/details/200633113-0836/ww-sales-bpr-program-manager-finance-and-sales-operations?team=SLDEV",
       "first_seen": "2025-11-20T17:41:49.283300",
-      "last_seen": "2025-11-20T17:41:49.283301"
+      "last_seen": "2025-11-20T18:33:31.532615"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633115-0836/ww-sales-bpr-program-manager-events-management-platform?team=SLDEV": {
+      "company": "Apple",
+      "title": "WW Sales BPR Program Manager, Events Management Platform",
+      "url": "https://jobs.apple.com/en-us/details/200633115-0836/ww-sales-bpr-program-manager-events-management-platform?team=SLDEV",
+      "first_seen": "2025-11-20T18:33:31.532333",
+      "last_seen": "2025-11-20T18:33:31.532334"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200632637-0836/operations-program-manager-vision-pro?team=OPMFG": {
+      "company": "Apple",
+      "title": "Operations Program Manager, Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200632637-0836/operations-program-manager-vision-pro?team=OPMFG",
+      "first_seen": "2025-11-20T18:33:31.532345",
+      "last_seen": "2025-11-20T18:33:31.532346"
     }
   },
   "metadata": {
-    "last_updated": "2025-11-20T17:41:49.283634",
-    "total_jobs": 18
+    "last_updated": "2025-11-20T18:33:31.532730",
+    "total_jobs": 20
   }
 }
