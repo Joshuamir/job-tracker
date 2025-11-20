@@ -97,10 +97,17 @@
       "url": "https://jobs.apple.com/en-us/details/200633223-0836/engineering-program-manager-swe-tvos?team=SFTWR",
       "first_seen": "2025-11-20T03:11:59.878115",
       "last_seen": "2025-11-20T05:43:38.959913"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633256-0836/software-engineering-program-manager-system-experience?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Engineering Program Manager, System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200633256-0836/software-engineering-program-manager-system-experience?team=SFTWR",
+      "first_seen": "2025-11-20T16:29:47.514225",
+      "last_seen": "2025-11-20T16:29:47.514235"
     }
   },
   "metadata": {
-    "last_updated": "2025-11-20T15:44:35.052491",
-    "total_jobs": 14
+    "last_updated": "2025-11-20T16:29:47.514563",
+    "total_jobs": 15
   }
 }
