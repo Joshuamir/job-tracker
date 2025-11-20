@@ -103,25 +103,32 @@
       "title": "Software Engineering Program Manager, System Experience",
       "url": "https://jobs.apple.com/en-us/details/200633256-0836/software-engineering-program-manager-system-experience?team=SFTWR",
       "first_seen": "2025-11-20T16:29:47.514225",
-      "last_seen": "2025-11-20T17:18:14.193431"
+      "last_seen": "2025-11-20T17:41:49.283527"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633320-2459/ml-engineering-program-manager-epm-apple-ads?team=SFTWR": {
       "company": "Apple",
       "title": "ML Engineering Program Manager (EPM), Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200633320-2459/ml-engineering-program-manager-epm-apple-ads?team=SFTWR",
       "first_seen": "2025-11-20T16:53:41.435654",
-      "last_seen": "2025-11-20T17:18:14.193433"
+      "last_seen": "2025-11-20T17:41:49.283530"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633320-0836/ml-engineering-program-manager-epm-apple-ads?team=SFTWR": {
       "company": "Apple",
       "title": "ML Engineering Program Manager (EPM), Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200633320-0836/ml-engineering-program-manager-epm-apple-ads?team=SFTWR",
       "first_seen": "2025-11-20T16:53:41.435659",
-      "last_seen": "2025-11-20T17:18:14.193424"
+      "last_seen": "2025-11-20T17:41:49.283521"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633113-0836/ww-sales-bpr-program-manager-finance-and-sales-operations?team=SLDEV": {
+      "company": "Apple",
+      "title": "WW Sales BPR Program Manager, Finance and Sales Operations",
+      "url": "https://jobs.apple.com/en-us/details/200633113-0836/ww-sales-bpr-program-manager-finance-and-sales-operations?team=SLDEV",
+      "first_seen": "2025-11-20T17:41:49.283300",
+      "last_seen": "2025-11-20T17:41:49.283301"
     }
   },
   "metadata": {
-    "last_updated": "2025-11-20T17:18:14.193502",
-    "total_jobs": 17
+    "last_updated": "2025-11-20T17:41:49.283634",
+    "total_jobs": 18
   }
 }
