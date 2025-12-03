@@ -342,10 +342,31 @@
       "url": "https://jobs.apple.com/en-us/details/200634384-0836/pixel-development-engineer?team=HRDWR",
       "first_seen": "2025-12-03T01:49:25.239435",
       "last_seen": "2025-12-03T17:25:34.371087"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633478-0836/analog-ip-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Analog IP Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200633478-0836/analog-ip-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-03T18:36:11.274353",
+      "last_seen": "2025-12-03T18:36:11.274363"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633478-3543/analog-ip-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Analog IP Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200633478-3543/analog-ip-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-03T18:36:11.274388",
+      "last_seen": "2025-12-03T18:36:11.274390"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200632617-3956/engineering-project-manager-is-t-aidp-products-and-programs?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager, IS&T AiDP Products and Programs",
+      "url": "https://jobs.apple.com/en-us/details/200632617-3956/engineering-project-manager-is-t-aidp-products-and-programs?team=SFTWR",
+      "first_seen": "2025-12-03T18:36:11.274396",
+      "last_seen": "2025-12-03T18:36:11.274397"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-03T17:46:50.488538",
-    "total_jobs": 49
+    "last_updated": "2025-12-03T18:36:11.274764",
+    "total_jobs": 52
   }
 }
