@@ -363,10 +363,38 @@
       "url": "https://jobs.apple.com/en-us/details/200632617-3956/engineering-project-manager-is-t-aidp-products-and-programs?team=SFTWR",
       "first_seen": "2025-12-03T18:36:11.274396",
       "last_seen": "2025-12-03T19:40:57.447848"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200631048-0836/sox-pmo-sap-advisor?team=CORSV": {
+      "company": "Apple",
+      "title": "SOX PMO SAP Advisor",
+      "url": "https://jobs.apple.com/en-us/details/200631048-0836/sox-pmo-sap-advisor?team=CORSV",
+      "first_seen": "2025-12-03T21:39:32.496338",
+      "last_seen": "2025-12-03T21:39:32.496349"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200631047-0836/sox-pmo-sap-advisor?team=CORSV": {
+      "company": "Apple",
+      "title": "SOX PMO SAP Advisor",
+      "url": "https://jobs.apple.com/en-us/details/200631047-0836/sox-pmo-sap-advisor?team=CORSV",
+      "first_seen": "2025-12-03T21:39:32.496354",
+      "last_seen": "2025-12-03T21:39:32.496355"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200631047-0157/sox-pmo-sap-advisor?team=CORSV": {
+      "company": "Apple",
+      "title": "SOX PMO SAP Advisor",
+      "url": "https://jobs.apple.com/en-us/details/200631047-0157/sox-pmo-sap-advisor?team=CORSV",
+      "first_seen": "2025-12-03T21:39:32.496363",
+      "last_seen": "2025-12-03T21:39:32.496364"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200631048-0157/sox-pmo-sap-advisor?team=CORSV": {
+      "company": "Apple",
+      "title": "SOX PMO SAP Advisor",
+      "url": "https://jobs.apple.com/en-us/details/200631048-0157/sox-pmo-sap-advisor?team=CORSV",
+      "first_seen": "2025-12-03T21:39:32.496371",
+      "last_seen": "2025-12-03T21:39:32.496372"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-03T21:20:53.461582",
-    "total_jobs": 52
+    "last_updated": "2025-12-03T21:39:32.496846",
+    "total_jobs": 56
   }
 }
