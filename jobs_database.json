@@ -447,10 +447,17 @@
       "url": "https://jobs.apple.com/en-us/details/200634964-0836/senior-software-development-engineer?team=SFTWR",
       "first_seen": "2025-12-04T17:24:56.681437",
       "last_seen": "2025-12-04T19:20:33.276736"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200623749-0157/senior-engineering-program-manager-enterprise-technology-services?team=SFTWR": {
+      "company": "Apple",
+      "title": "Senior Engineering Program Manager, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200623749-0157/senior-engineering-program-manager-enterprise-technology-services?team=SFTWR",
+      "first_seen": "2025-12-04T19:41:11.000101",
+      "last_seen": "2025-12-04T19:41:11.000113"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-04T19:20:33.276804",
-    "total_jobs": 64
+    "last_updated": "2025-12-04T19:41:11.000506",
+    "total_jobs": 65
   }
 }
