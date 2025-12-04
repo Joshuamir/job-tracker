@@ -404,7 +404,7 @@
       "title": "Data Center System EPM (Engineering Program Manager)",
       "url": "https://jobs.apple.com/en-us/details/200635015-0157/data-center-system-epm-engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-04T01:50:29.929611",
-      "last_seen": "2025-12-04T16:33:51.124316"
+      "last_seen": "2025-12-04T17:24:56.681680"
     },
     "Apple||https://jobs.apple.com/en-us/details/200628187-0836/engineering-program-manager-global-siri?team=SFTWR": {
       "company": "Apple",
@@ -418,7 +418,7 @@
       "title": "iOS Safari Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200635025-0836/ios-safari-software-development-engineer?team=SFTWR",
       "first_seen": "2025-12-04T01:50:29.929643",
-      "last_seen": "2025-12-04T16:33:51.124307"
+      "last_seen": "2025-12-04T17:24:56.681734"
     },
     "Apple||https://jobs.apple.com/en-us/details/200628187-3337/engineering-program-manager-global-siri?team=SFTWR": {
       "company": "Apple",
@@ -439,11 +439,18 @@
       "title": "Product Design Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200634932-0836/product-design-engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-04T06:36:10.225365",
-      "last_seen": "2025-12-04T16:33:51.124300"
+      "last_seen": "2025-12-04T17:24:56.681729"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200634964-0836/senior-software-development-engineer?team=SFTWR": {
+      "company": "Apple",
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200634964-0836/senior-software-development-engineer?team=SFTWR",
+      "first_seen": "2025-12-04T17:24:56.681437",
+      "last_seen": "2025-12-04T17:24:56.681439"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-04T16:33:51.124375",
-    "total_jobs": 63
+    "last_updated": "2025-12-04T17:24:56.681790",
+    "total_jobs": 64
   }
 }
