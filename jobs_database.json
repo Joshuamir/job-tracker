@@ -538,10 +538,24 @@
       "url": "https://jobs.apple.com/en-us/details/200631922-0836/display-engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-04T20:47:50.760475",
       "last_seen": "2025-12-04T23:41:01.602425"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200626061-3543/cellular-modem-systems-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Cellular Modem Systems Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200626061-3543/cellular-modem-systems-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-05T11:40:48.686737",
+      "last_seen": "2025-12-05T11:40:48.686747"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200626061-0836/cellular-modem-systems-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Cellular Modem Systems Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200626061-0836/cellular-modem-systems-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-05T11:40:48.686770",
+      "last_seen": "2025-12-05T11:40:48.686771"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-05T11:21:32.153522",
-    "total_jobs": 77
+    "last_updated": "2025-12-05T11:40:48.687091",
+    "total_jobs": 79
   }
 }
