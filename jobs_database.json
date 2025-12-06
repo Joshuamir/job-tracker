@@ -601,10 +601,24 @@
       "url": "https://jobs.apple.com/en-us/details/200633578-0836/operations-eng-project-manager?team=OPMFG",
       "first_seen": "2025-12-05T23:40:07.128928",
       "last_seen": "2025-12-05T23:40:07.128939"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633578-0836/operations-program-manager-softgoods?team=OPMFG": {
+      "company": "Apple",
+      "title": "Operations Program Manager - SoftGoods",
+      "url": "https://jobs.apple.com/en-us/details/200633578-0836/operations-program-manager-softgoods?team=OPMFG",
+      "first_seen": "2025-12-06T01:44:28.275238",
+      "last_seen": "2025-12-06T01:44:28.275249"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200630795-0836/software-development-engineer-in-test-sdet-home?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test (SDET) - Home",
+      "url": "https://jobs.apple.com/en-us/details/200630795-0836/software-development-engineer-in-test-sdet-home?team=SFTWR",
+      "first_seen": "2025-12-06T01:44:28.275269",
+      "last_seen": "2025-12-06T01:44:28.275270"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-05T23:40:07.129307",
-    "total_jobs": 86
+    "last_updated": "2025-12-06T01:44:28.275677",
+    "total_jobs": 88
   }
 }
