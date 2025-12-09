@@ -734,10 +734,17 @@
       "url": "https://jobs.apple.com/en-us/details/200626143-0157/senior-project-manager-digital-commerce-apple-store-online?team=CORSV",
       "first_seen": "2025-12-09T20:24:14.264078",
       "last_seen": "2025-12-09T21:20:40.116593"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635827-0836/engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200635827-0836/engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-09T22:22:41.610254",
+      "last_seen": "2025-12-09T22:22:41.610261"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-09T21:41:30.169673",
-    "total_jobs": 105
+    "last_updated": "2025-12-09T22:22:41.610523",
+    "total_jobs": 106
   }
 }
