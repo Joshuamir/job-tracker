@@ -671,10 +671,45 @@
       "url": "https://jobs.apple.com/en-us/details/200632619-0836/technical-program-manager-core-technologies?team=OPMFG",
       "first_seen": "2025-12-08T21:40:09.014409",
       "last_seen": "2025-12-08T23:22:24.050054"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200634893-0836/panel-technologies-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Panel Technologies Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200634893-0836/panel-technologies-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-09T01:50:42.564760",
+      "last_seen": "2025-12-09T01:50:42.564771"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635120-0836/aiml-sr-engineering-program-manager-production-engineering?team=MLAI": {
+      "company": "Apple",
+      "title": "AIML - Sr Engineering Program Manager, Production Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200635120-0836/aiml-sr-engineering-program-manager-production-engineering?team=MLAI",
+      "first_seen": "2025-12-09T01:50:42.564784",
+      "last_seen": "2025-12-09T01:50:42.564785"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635213-0505/3rd-party-ip-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "3rd Party IP Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200635213-0505/3rd-party-ip-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-09T01:50:42.564788",
+      "last_seen": "2025-12-09T01:50:42.564789"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635213-0157/3rd-party-ip-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "3rd Party IP Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200635213-0157/3rd-party-ip-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-09T01:50:42.564794",
+      "last_seen": "2025-12-09T01:50:42.564795"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635213-0836/3rd-party-ip-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "3rd Party IP Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200635213-0836/3rd-party-ip-engineering-program-manager?team=HRDWR",
+      "first_seen": "2025-12-09T01:50:42.564817",
+      "last_seen": "2025-12-09T01:50:42.564818"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-08T23:41:06.006913",
-    "total_jobs": 96
+    "last_updated": "2025-12-09T01:50:42.565278",
+    "total_jobs": 101
   }
 }
