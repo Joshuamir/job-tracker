@@ -712,18 +712,32 @@
       "title": "Software Development Engineer, Find My",
       "url": "https://jobs.apple.com/en-us/details/200629964-3401/software-development-engineer-find-my?team=SFTWR",
       "first_seen": "2025-12-09T17:45:33.586871",
-      "last_seen": "2025-12-09T19:39:42.667027"
+      "last_seen": "2025-12-09T20:24:14.264262"
     },
     "Apple||https://jobs.apple.com/en-us/details/200635137-3401/aiml-engineering-program-manager?team=CORSV": {
       "company": "Apple",
       "title": "AIML Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200635137-3401/aiml-engineering-program-manager?team=CORSV",
       "first_seen": "2025-12-09T19:39:42.666759",
-      "last_seen": "2025-12-09T19:39:42.666760"
+      "last_seen": "2025-12-09T20:24:14.264255"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200615261-0836/program-manager-learning-and-development?team=HRDWR": {
+      "company": "Apple",
+      "title": "Program Manager - Learning and Development",
+      "url": "https://jobs.apple.com/en-us/details/200615261-0836/program-manager-learning-and-development?team=HRDWR",
+      "first_seen": "2025-12-09T20:24:14.264073",
+      "last_seen": "2025-12-09T20:24:14.264074"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200626143-0157/senior-project-manager-digital-commerce-apple-store-online?team=CORSV": {
+      "company": "Apple",
+      "title": "Senior Project Manager, Digital Commerce, Apple Store Online",
+      "url": "https://jobs.apple.com/en-us/details/200626143-0157/senior-project-manager-digital-commerce-apple-store-online?team=CORSV",
+      "first_seen": "2025-12-09T20:24:14.264078",
+      "last_seen": "2025-12-09T20:24:14.264079"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-09T19:39:42.667117",
-    "total_jobs": 103
+    "last_updated": "2025-12-09T20:24:14.264391",
+    "total_jobs": 105
   }
 }
