@@ -706,10 +706,17 @@
       "url": "https://jobs.apple.com/en-us/details/200635213-0836/3rd-party-ip-engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-09T01:50:42.564817",
       "last_seen": "2025-12-09T13:38:08.627307"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200629964-3401/software-development-engineer-find-my?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer, Find My",
+      "url": "https://jobs.apple.com/en-us/details/200629964-3401/software-development-engineer-find-my?team=SFTWR",
+      "first_seen": "2025-12-09T17:45:33.586871",
+      "last_seen": "2025-12-09T17:45:33.586887"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-09T17:23:27.304120",
-    "total_jobs": 101
+    "last_updated": "2025-12-09T17:45:33.587319",
+    "total_jobs": 102
   }
 }
