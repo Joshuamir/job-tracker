@@ -768,18 +768,32 @@
       "title": "Software Development Engineer - Server",
       "url": "https://jobs.apple.com/en-us/details/200635108-0836/software-development-engineer-server?team=SFTWR",
       "first_seen": "2025-12-10T05:24:58.474708",
-      "last_seen": "2025-12-10T16:31:45.103714"
+      "last_seen": "2025-12-10T17:26:08.317812"
     },
     "Apple||https://jobs.apple.com/en-us/details/200635646-3401/watershed-resilience-program-manager-global-energy-sustainability?team=CORSV": {
       "company": "Apple",
       "title": "Watershed Resilience Program Manager - Global Energy & Sustainability",
       "url": "https://jobs.apple.com/en-us/details/200635646-3401/watershed-resilience-program-manager-global-energy-sustainability?team=CORSV",
       "first_seen": "2025-12-10T07:25:51.687295",
-      "last_seen": "2025-12-10T16:31:45.103704"
+      "last_seen": "2025-12-10T17:26:08.317851"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635356-0836/ml-platform-software-development-engineer-machine-learning-platform-technology?team=MLAI": {
+      "company": "Apple",
+      "title": "ML Platform Software Development Engineer - Machine Learning Platform & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200635356-0836/ml-platform-software-development-engineer-machine-learning-platform-technology?team=MLAI",
+      "first_seen": "2025-12-10T17:26:08.317502",
+      "last_seen": "2025-12-10T17:26:08.317511"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635356-3337/ml-platform-software-development-engineer-machine-learning-platform-technology?team=MLAI": {
+      "company": "Apple",
+      "title": "ML Platform Software Development Engineer - Machine Learning Platform & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200635356-3337/ml-platform-software-development-engineer-machine-learning-platform-technology?team=MLAI",
+      "first_seen": "2025-12-10T17:26:08.317534",
+      "last_seen": "2025-12-10T17:26:08.317535"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-10T16:31:45.103778",
-    "total_jobs": 111
+    "last_updated": "2025-12-10T17:26:08.317900",
+    "total_jobs": 113
   }
 }
