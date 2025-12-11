@@ -797,10 +797,17 @@
       "url": "https://jobs.apple.com/en-us/details/200629668-0836/software-development-engineer-in-test-sdet-home?team=SFTWR",
       "first_seen": "2025-12-10T17:48:10.174283",
       "last_seen": "2025-12-10T18:34:43.620086"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633902-3956/software-engineering-project-manager-epm-apple-vision-pro?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Engineering Project Manager (EPM) - Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200633902-3956/software-engineering-project-manager-epm-apple-vision-pro?team=SFTWR",
+      "first_seen": "2025-12-11T01:54:05.236116",
+      "last_seen": "2025-12-11T01:54:05.236128"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-10T23:40:43.173686",
-    "total_jobs": 114
+    "last_updated": "2025-12-11T01:54:05.236493",
+    "total_jobs": 115
   }
 }
