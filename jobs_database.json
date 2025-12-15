@@ -957,11 +957,25 @@
       "title": "Engineering Program Manager, Analytics Data Engineering, Commerce Subscriptions",
       "url": "https://jobs.apple.com/en-us/details/200636086-0836/engineering-program-manager-analytics-data-engineering-commerce-subscriptions?team=SFTWR",
       "first_seen": "2025-12-15T14:29:03.761470",
-      "last_seen": "2025-12-15T18:36:33.628815"
+      "last_seen": "2025-12-15T19:22:28.239067"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635150-3337/engineering-program-manager-apple-services-engineering-app-store?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager, Apple Services Engineering, App Store",
+      "url": "https://jobs.apple.com/en-us/details/200635150-3337/engineering-program-manager-apple-services-engineering-app-store?team=SFTWR",
+      "first_seen": "2025-12-15T19:22:28.238781",
+      "last_seen": "2025-12-15T19:22:28.238786"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636683-3337/navigation-framework-software-development-in-test-sdet-apple-maps?team=SFTWR": {
+      "company": "Apple",
+      "title": "Navigation Framework Software Development in Test (SDET) – Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200636683-3337/navigation-framework-software-development-in-test-sdet-apple-maps?team=SFTWR",
+      "first_seen": "2025-12-15T19:22:28.238792",
+      "last_seen": "2025-12-15T19:22:28.238793"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-15T18:36:33.628877",
-    "total_jobs": 137
+    "last_updated": "2025-12-15T19:22:28.239124",
+    "total_jobs": 139
   }
 }
