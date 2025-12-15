@@ -964,7 +964,7 @@
       "title": "Engineering Program Manager, Apple Services Engineering, App Store",
       "url": "https://jobs.apple.com/en-us/details/200635150-3337/engineering-program-manager-apple-services-engineering-app-store?team=SFTWR",
       "first_seen": "2025-12-15T19:22:28.238781",
-      "last_seen": "2025-12-15T19:41:31.607576"
+      "last_seen": "2025-12-15T20:27:57.103148"
     },
     "Apple||https://jobs.apple.com/en-us/details/200636683-3337/navigation-framework-software-development-in-test-sdet-apple-maps?team=SFTWR": {
       "company": "Apple",
@@ -978,18 +978,25 @@
       "title": "CapEx Program Manager - iPhone",
       "url": "https://jobs.apple.com/en-us/details/200635717-3956/capex-program-manager-iphone?team=OPMFG",
       "first_seen": "2025-12-15T19:41:31.607304",
-      "last_seen": "2025-12-15T19:41:31.607311"
+      "last_seen": "2025-12-15T20:27:57.103159"
     },
     "Apple||https://jobs.apple.com/en-us/details/200636705-0836/corporate-development-university-industry-partnerships-contracting-lead?team=CORSV": {
       "company": "Apple",
       "title": "Corporate Development - University Industry Partnerships Contracting Lead",
       "url": "https://jobs.apple.com/en-us/details/200636705-0836/corporate-development-university-industry-partnerships-contracting-lead?team=CORSV",
       "first_seen": "2025-12-15T19:41:31.607347",
-      "last_seen": "2025-12-15T19:41:31.607348"
+      "last_seen": "2025-12-15T20:27:57.103154"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635250-3337/sr-engineering-program-manager-storage-infrastructure-apple-services-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Sr. Engineering Program Manager - Storage Infrastructure - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200635250-3337/sr-engineering-program-manager-storage-infrastructure-apple-services-engineering?team=SFTWR",
+      "first_seen": "2025-12-15T20:27:57.102971",
+      "last_seen": "2025-12-15T20:27:57.102972"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-15T19:41:31.607672",
-    "total_jobs": 141
+    "last_updated": "2025-12-15T20:27:57.103250",
+    "total_jobs": 142
   }
 }
