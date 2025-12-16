@@ -1000,10 +1000,17 @@
       "url": "https://jobs.apple.com/en-us/details/200636328-0836/engineering-project-manager-fitness-and-health-apple-services-engineering?team=SFTWR",
       "first_seen": "2025-12-15T21:23:10.942282",
       "last_seen": "2025-12-15T23:42:30.676563"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636758-3543/software-development-engineer-in-test-battery-life?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test - Battery Life",
+      "url": "https://jobs.apple.com/en-us/details/200636758-3543/software-development-engineer-in-test-battery-life?team=SFTWR",
+      "first_seen": "2025-12-16T03:27:12.464435",
+      "last_seen": "2025-12-16T03:27:12.464446"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-16T01:53:42.975912",
-    "total_jobs": 143
+    "last_updated": "2025-12-16T03:27:12.464824",
+    "total_jobs": 144
   }
 }
