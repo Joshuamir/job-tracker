@@ -1006,11 +1006,25 @@
       "title": "Software Development Engineer in Test - Battery Life",
       "url": "https://jobs.apple.com/en-us/details/200636758-3543/software-development-engineer-in-test-battery-life?team=SFTWR",
       "first_seen": "2025-12-16T03:27:12.464435",
-      "last_seen": "2025-12-16T16:33:16.562657"
+      "last_seen": "2025-12-16T17:25:58.989597"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200594227-3337/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
+      "url": "https://jobs.apple.com/en-us/details/200594227-3337/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
+      "first_seen": "2025-12-16T17:25:58.989257",
+      "last_seen": "2025-12-16T17:25:58.989267"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200630511-0836/software-development-engineer?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200630511-0836/software-development-engineer?team=SFTWR",
+      "first_seen": "2025-12-16T17:25:58.989298",
+      "last_seen": "2025-12-16T17:25:58.989299"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-16T16:33:16.562748",
-    "total_jobs": 144
+    "last_updated": "2025-12-16T17:25:58.989680",
+    "total_jobs": 146
   }
 }
