@@ -1048,18 +1048,25 @@
       "title": "Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200636777-0836/engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-16T19:41:13.663614",
-      "last_seen": "2025-12-16T21:23:53.832491"
+      "last_seen": "2025-12-16T21:43:13.449556"
     },
     "Apple||https://jobs.apple.com/en-us/details/200616113-0836/sip-engineering-program-manager-apple-watch?team=HRDWR": {
       "company": "Apple",
       "title": "SIP Engineering Program Manager, Apple Watch",
       "url": "https://jobs.apple.com/en-us/details/200616113-0836/sip-engineering-program-manager-apple-watch?team=HRDWR",
       "first_seen": "2025-12-16T20:28:14.951389",
-      "last_seen": "2025-12-16T21:23:53.832493"
+      "last_seen": "2025-12-16T21:43:13.449550"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636757-3543/software-development-engineer-device-management?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer (Device Management)",
+      "url": "https://jobs.apple.com/en-us/details/200636757-3543/software-development-engineer-device-management?team=SFTWR",
+      "first_seen": "2025-12-16T21:43:13.449290",
+      "last_seen": "2025-12-16T21:43:13.449298"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-16T21:23:53.832524",
-    "total_jobs": 151
+    "last_updated": "2025-12-16T21:43:13.449625",
+    "total_jobs": 152
   }
 }
