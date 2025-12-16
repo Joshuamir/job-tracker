@@ -1013,7 +1013,7 @@
       "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
       "url": "https://jobs.apple.com/en-us/details/200594227-3337/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
       "first_seen": "2025-12-16T17:25:58.989257",
-      "last_seen": "2025-12-16T18:36:20.503006"
+      "last_seen": "2025-12-16T19:21:25.555740"
     },
     "Apple||https://jobs.apple.com/en-us/details/200630511-0836/software-development-engineer?team=SFTWR": {
       "company": "Apple",
@@ -1027,18 +1027,25 @@
       "title": "Engineering Program Manager, iCloud, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200635789-0836/engineering-program-manager-icloud-apple-services-engineering?team=SFTWR",
       "first_seen": "2025-12-16T17:48:24.371280",
-      "last_seen": "2025-12-16T18:36:20.503003"
+      "last_seen": "2025-12-16T19:21:25.555687"
     },
     "Apple||https://jobs.apple.com/en-us/details/200635889-3337/sr-engineering-program-manager-cloud-infrastructure-apple-services-engineering?team=SFTWR": {
       "company": "Apple",
       "title": "Sr. Engineering Program Manager, Cloud Infrastructure, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200635889-3337/sr-engineering-program-manager-cloud-infrastructure-apple-services-engineering?team=SFTWR",
       "first_seen": "2025-12-16T17:48:24.371327",
-      "last_seen": "2025-12-16T18:36:20.503000"
+      "last_seen": "2025-12-16T19:21:25.555735"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635830-0157/engineering-project-manager-retail-marcom-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager, Retail & Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200635830-0157/engineering-project-manager-retail-marcom-engineering?team=SFTWR",
+      "first_seen": "2025-12-16T19:21:25.555405",
+      "last_seen": "2025-12-16T19:21:25.555406"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-16T18:36:20.503087",
-    "total_jobs": 148
+    "last_updated": "2025-12-16T19:21:25.555801",
+    "total_jobs": 149
   }
 }
