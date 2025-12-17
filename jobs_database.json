@@ -1104,7 +1104,7 @@
       "title": "Engineering Project Manager, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200636474-0836/engineering-project-manager-video-apps?team=SFTWR",
       "first_seen": "2025-12-17T21:23:37.968045",
-      "last_seen": "2025-12-17T23:22:57.868631"
+      "last_seen": "2025-12-17T23:42:58.828169"
     },
     "Apple||https://jobs.apple.com/en-us/details/200626438-2621/issuer-business-development-manager-apple-pay?team=MKTG": {
       "company": "Apple",
@@ -1132,18 +1132,32 @@
       "title": "US Education Sales Project Manager",
       "url": "https://jobs.apple.com/en-us/details/200637158-0836/us-education-sales-project-manager?team=SLDEV",
       "first_seen": "2025-12-17T22:23:20.871250",
-      "last_seen": "2025-12-17T23:22:57.868627"
+      "last_seen": "2025-12-17T23:42:58.828216"
     },
     "Apple||https://jobs.apple.com/en-us/details/200637158-0157/us-education-sales-project-manager?team=SLDEV": {
       "company": "Apple",
       "title": "US Education Sales Project Manager",
       "url": "https://jobs.apple.com/en-us/details/200637158-0157/us-education-sales-project-manager?team=SLDEV",
       "first_seen": "2025-12-17T22:23:20.871293",
-      "last_seen": "2025-12-17T23:22:57.868617"
+      "last_seen": "2025-12-17T23:42:58.828212"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636974-3749/construction-project-manager?team=CORSV": {
+      "company": "Apple",
+      "title": "Construction Project Manager",
+      "url": "https://jobs.apple.com/en-us/details/200636974-3749/construction-project-manager?team=CORSV",
+      "first_seen": "2025-12-17T23:42:58.827963",
+      "last_seen": "2025-12-17T23:42:58.827964"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200637155-0836/location-software-development-engineer-in-test?team=SFTWR": {
+      "company": "Apple",
+      "title": "Location Software Development Engineer in Test",
+      "url": "https://jobs.apple.com/en-us/details/200637155-0836/location-software-development-engineer-in-test?team=SFTWR",
+      "first_seen": "2025-12-17T23:42:58.827991",
+      "last_seen": "2025-12-17T23:42:58.827992"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-17T23:22:57.868687",
-    "total_jobs": 163
+    "last_updated": "2025-12-17T23:42:58.828313",
+    "total_jobs": 165
   }
 }
