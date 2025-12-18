@@ -1182,10 +1182,17 @@
       "url": "https://jobs.apple.com/en-us/details/200637649-0836/software-development-engineer-test?team=SFTWR",
       "first_seen": "2025-12-18T17:25:55.840720",
       "last_seen": "2025-12-18T19:40:02.126559"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636451-3956/project-manager-vendor-analytics-governance-vendor-management-office-vmo-and-software-asset-management-sam?team=CORSV": {
+      "company": "Apple",
+      "title": "Project Manager (Vendor Analytics & Governance), Vendor Management Office (VMO) and Software Asset Management (SAM)",
+      "url": "https://jobs.apple.com/en-us/details/200636451-3956/project-manager-vendor-analytics-governance-vendor-management-office-vmo-and-software-asset-management-sam?team=CORSV",
+      "first_seen": "2025-12-18T22:23:06.852480",
+      "last_seen": "2025-12-18T22:23:06.852491"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-18T21:40:43.917041",
-    "total_jobs": 169
+    "last_updated": "2025-12-18T22:23:06.852832",
+    "total_jobs": 170
   }
 }
