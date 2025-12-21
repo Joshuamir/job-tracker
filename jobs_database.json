@@ -1238,10 +1238,24 @@
       "url": "https://jobs.apple.com/en-us/details/200636555-0836/display-engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-19T23:22:29.624517",
       "last_seen": "2025-12-20T15:40:58.275002"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636135-0157/americas-readiness-operations-program-manager?team=OPMFG": {
+      "company": "Apple",
+      "title": "Americas Readiness Operations Program Manager,",
+      "url": "https://jobs.apple.com/en-us/details/200636135-0157/americas-readiness-operations-program-manager?team=OPMFG",
+      "first_seen": "2025-12-21T16:27:07.254525",
+      "last_seen": "2025-12-21T16:27:07.254532"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200634654-0157/americas-logistics-outbound-program-manager?team=OPMFG": {
+      "company": "Apple",
+      "title": "Americas Logistics-Outbound Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200634654-0157/americas-logistics-outbound-program-manager?team=OPMFG",
+      "first_seen": "2025-12-21T16:27:07.254564",
+      "last_seen": "2025-12-21T16:27:07.254565"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-21T15:41:01.633949",
-    "total_jobs": 177
+    "last_updated": "2025-12-21T16:27:07.254851",
+    "total_jobs": 179
   }
 }
