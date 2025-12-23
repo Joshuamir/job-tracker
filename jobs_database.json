@@ -1259,10 +1259,17 @@
       "url": "https://jobs.apple.com/en-us/details/200638678-0836/software-development-engineer-test?team=SFTWR",
       "first_seen": "2025-12-22T19:19:59.001525",
       "last_seen": "2025-12-22T20:46:09.624134"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200638691-0836/photonics-test-development-engineer?team=HRDWR": {
+      "company": "Apple",
+      "title": "Photonics Test Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200638691-0836/photonics-test-development-engineer?team=HRDWR",
+      "first_seen": "2025-12-23T17:23:18.282335",
+      "last_seen": "2025-12-23T17:23:18.282347"
     }
   },
   "metadata": {
-    "last_updated": "2025-12-23T16:31:28.761349",
-    "total_jobs": 180
+    "last_updated": "2025-12-23T17:23:18.282765",
+    "total_jobs": 181
   }
 }
