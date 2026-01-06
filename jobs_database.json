@@ -1287,10 +1287,31 @@
       "url": "https://jobs.apple.com/en-us/details/200639662-0505/sw-test-development-engineer-in-core-os?team=SFTWR",
       "first_seen": "2026-01-03T04:07:10.151645",
       "last_seen": "2026-01-05T19:22:51.286816"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200639922-3956/operations-program-manager-iphone?team=OPMFG": {
+      "company": "Apple",
+      "title": "Operations Program Manager, iPhone",
+      "url": "https://jobs.apple.com/en-us/details/200639922-3956/operations-program-manager-iphone?team=OPMFG",
+      "first_seen": "2026-01-06T01:56:41.208331",
+      "last_seen": "2026-01-06T01:56:41.208342"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200639922-0836/operations-program-manager-iphone?team=OPMFG": {
+      "company": "Apple",
+      "title": "Operations Program Manager, iPhone",
+      "url": "https://jobs.apple.com/en-us/details/200639922-0836/operations-program-manager-iphone?team=OPMFG",
+      "first_seen": "2026-01-06T01:56:41.208355",
+      "last_seen": "2026-01-06T01:56:41.208356"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200639924-0836/core-technologies-operations-program-manager?team=OPMFG": {
+      "company": "Apple",
+      "title": "Core Technologies Operations Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200639924-0836/core-technologies-operations-program-manager?team=OPMFG",
+      "first_seen": "2026-01-06T01:56:41.208374",
+      "last_seen": "2026-01-06T01:56:41.208375"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-05T23:43:04.796686",
-    "total_jobs": 184
+    "last_updated": "2026-01-06T01:56:41.208793",
+    "total_jobs": 187
   }
 }
