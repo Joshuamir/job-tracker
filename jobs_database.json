@@ -1391,18 +1391,32 @@
       "title": "Engineering Project Manager (Learning and Development), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200621491-3401/engineering-project-manager-learning-and-development-is-t-enterprise-systems?team=SFTWR",
       "first_seen": "2026-01-07T19:42:15.609347",
-      "last_seen": "2026-01-07T21:24:02.695219"
+      "last_seen": "2026-01-07T21:43:39.094787"
     },
     "Apple||https://jobs.apple.com/en-us/details/200640327-0157/new-product-operations-program-manager-mac?team=OPMFG": {
       "company": "Apple",
       "title": "New Product Operations Program Manager, Mac",
       "url": "https://jobs.apple.com/en-us/details/200640327-0157/new-product-operations-program-manager-mac?team=OPMFG",
       "first_seen": "2026-01-07T20:28:55.761994",
-      "last_seen": "2026-01-07T21:24:02.695213"
+      "last_seen": "2026-01-07T21:43:39.094794"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636770-0836/operations-engineering-program-manager-applecare?team=CUST": {
+      "company": "Apple",
+      "title": "Operations Engineering Program Manager - AppleCare",
+      "url": "https://jobs.apple.com/en-us/details/200636770-0836/operations-engineering-program-manager-applecare?team=CUST",
+      "first_seen": "2026-01-07T21:43:39.094386",
+      "last_seen": "2026-01-07T21:43:39.094398"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636770-0157/operations-engineering-program-manager-applecare?team=CUST": {
+      "company": "Apple",
+      "title": "Operations Engineering Program Manager - AppleCare",
+      "url": "https://jobs.apple.com/en-us/details/200636770-0157/operations-engineering-program-manager-applecare?team=CUST",
+      "first_seen": "2026-01-07T21:43:39.094405",
+      "last_seen": "2026-01-07T21:43:39.094406"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-07T21:24:02.695279",
-    "total_jobs": 200
+    "last_updated": "2026-01-07T21:43:39.094847",
+    "total_jobs": 202
   }
 }
