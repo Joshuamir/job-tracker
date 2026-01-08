@@ -1462,10 +1462,17 @@
       "url": "https://jobs.apple.com/en-us/details/200618494-0836/compliance-program-manager-project-management-office-pmo?team=SLDEV",
       "first_seen": "2026-01-08T20:28:50.366806",
       "last_seen": "2026-01-08T22:47:50.396768"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640699-0836/hw-sw-power-management-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "HW/SW Power Management Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200640699-0836/hw-sw-power-management-engineering-program-manager?team=HRDWR",
+      "first_seen": "2026-01-08T23:20:39.151795",
+      "last_seen": "2026-01-08T23:20:39.151802"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-08T22:47:50.396825",
-    "total_jobs": 209
+    "last_updated": "2026-01-08T23:20:39.152105",
+    "total_jobs": 210
   }
 }
