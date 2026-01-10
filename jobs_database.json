@@ -1518,10 +1518,31 @@
       "url": "https://jobs.apple.com/en-us/details/200640806-0836/firmware-development-engineer?team=SFTWR",
       "first_seen": "2026-01-09T19:22:08.233607",
       "last_seen": "2026-01-09T22:24:47.090135"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640402-3543/software-development-engineer?team=MLAI": {
+      "company": "Apple",
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200640402-3543/software-development-engineer?team=MLAI",
+      "first_seen": "2026-01-10T01:53:56.497069",
+      "last_seen": "2026-01-10T01:53:56.497080"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640907-3956/sr-program-manager-ww-supply-chain?team=OPMFG": {
+      "company": "Apple",
+      "title": "Sr Program Manager, WW Supply Chain",
+      "url": "https://jobs.apple.com/en-us/details/200640907-3956/sr-program-manager-ww-supply-chain?team=OPMFG",
+      "first_seen": "2026-01-10T01:53:56.497090",
+      "last_seen": "2026-01-10T01:53:56.497092"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640551-0836/software-development-engineer-in-test-apple-maps?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test - Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200640551-0836/software-development-engineer-in-test-apple-maps?team=SFTWR",
+      "first_seen": "2026-01-10T01:53:56.497099",
+      "last_seen": "2026-01-10T01:53:56.497100"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-09T23:43:08.759561",
-    "total_jobs": 217
+    "last_updated": "2026-01-10T01:53:56.497525",
+    "total_jobs": 220
   }
 }
