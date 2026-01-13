@@ -1609,10 +1609,17 @@
       "url": "https://jobs.apple.com/en-us/details/200639920-0776/engineering-program-manager-enterprise-technology-services?team=SFTWR",
       "first_seen": "2026-01-13T01:54:32.417458",
       "last_seen": "2026-01-13T15:29:22.173530"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640216-0157/engineering-program-manager-data-solutions-initiatives?team=SLDEV": {
+      "company": "Apple",
+      "title": "Engineering Program Manager, Data Solutions & Initiatives",
+      "url": "https://jobs.apple.com/en-us/details/200640216-0157/engineering-program-manager-data-solutions-initiatives?team=SLDEV",
+      "first_seen": "2026-01-13T19:23:06.580366",
+      "last_seen": "2026-01-13T19:23:06.580377"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-13T18:35:37.816846",
-    "total_jobs": 230
+    "last_updated": "2026-01-13T19:23:06.580758",
+    "total_jobs": 231
   }
 }
