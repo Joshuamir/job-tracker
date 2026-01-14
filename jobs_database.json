@@ -1630,10 +1630,17 @@
       "url": "https://jobs.apple.com/en-us/details/200641449-0836/technology-and-metrology-engineering-program-manager-display?team=HRDWR",
       "first_seen": "2026-01-13T22:25:39.569064",
       "last_seen": "2026-01-13T23:42:03.042523"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200639948-0836/audio-new-product-introduction-operations-program-manager-npi-opm?team=OPMFG": {
+      "company": "Apple",
+      "title": "Audio New Product Introduction Operations Program Manager (NPI-OPM)",
+      "url": "https://jobs.apple.com/en-us/details/200639948-0836/audio-new-product-introduction-operations-program-manager-npi-opm?team=OPMFG",
+      "first_seen": "2026-01-14T19:21:51.540837",
+      "last_seen": "2026-01-14T19:21:51.540848"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-14T18:37:47.770567",
-    "total_jobs": 233
+    "last_updated": "2026-01-14T19:21:51.541244",
+    "total_jobs": 234
   }
 }
