@@ -19,7 +19,7 @@
       "title": "Senior Software Development Engineer in Test",
       "url": "https://jobs.apple.com/en-us/details/200622219-0836/senior-software-development-engineer-in-test?team=SFTWR",
       "first_seen": "2025-11-19T18:33:49.951222",
-      "last_seen": "2025-11-19T19:39:40.884886"
+      "last_seen": "2026-01-14T21:25:16.245487"
     },
     "Apple||https://jobs.apple.com/en-us/details/200632953-0836/k-12-education-program-manager-hardware-engineering?team=OPMFG": {
       "company": "Apple",
@@ -1637,10 +1637,17 @@
       "url": "https://jobs.apple.com/en-us/details/200639948-0836/audio-new-product-introduction-operations-program-manager-npi-opm?team=OPMFG",
       "first_seen": "2026-01-14T19:21:51.540837",
       "last_seen": "2026-01-14T19:41:57.957023"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640114-0836/aiml-engineering-program-manager?team=CORSV": {
+      "company": "Apple",
+      "title": "AIML Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200640114-0836/aiml-engineering-program-manager?team=CORSV",
+      "first_seen": "2026-01-14T21:25:16.245227",
+      "last_seen": "2026-01-14T21:25:16.245228"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-14T20:46:05.750283",
-    "total_jobs": 234
+    "last_updated": "2026-01-14T21:25:16.245580",
+    "total_jobs": 235
   }
 }
