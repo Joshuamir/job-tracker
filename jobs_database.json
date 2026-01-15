@@ -1665,10 +1665,17 @@
       "url": "https://jobs.apple.com/en-us/details/200641714-3956/software-development-engineer-test?team=HRDWR",
       "first_seen": "2026-01-15T01:56:30.775138",
       "last_seen": "2026-01-15T17:35:17.268509"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200641933-0836/engineering-program-manager-swe-systems?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager - SWE Systems",
+      "url": "https://jobs.apple.com/en-us/details/200641933-0836/engineering-program-manager-swe-systems?team=SFTWR",
+      "first_seen": "2026-01-15T18:40:51.086767",
+      "last_seen": "2026-01-15T18:40:51.086775"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-15T17:35:17.268585",
-    "total_jobs": 238
+    "last_updated": "2026-01-15T18:40:51.087096",
+    "total_jobs": 239
   }
 }
