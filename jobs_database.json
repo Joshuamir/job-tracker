@@ -1720,18 +1720,32 @@
       "title": "Senior Engineering Program Manager, AI Platform Infrastructure, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200635410-3337/senior-engineering-program-manager-ai-platform-infrastructure-apple-services-engineering?team=SFTWR",
       "first_seen": "2026-01-16T01:58:15.228095",
-      "last_seen": "2026-01-16T16:33:34.984896"
+      "last_seen": "2026-01-16T17:27:03.442145"
     },
     "Apple||https://jobs.apple.com/en-us/details/200642093-0836/wireless-rf-engineering-program-manager?team=HRDWR": {
       "company": "Apple",
       "title": "Wireless/RF Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200642093-0836/wireless-rf-engineering-program-manager?team=HRDWR",
       "first_seen": "2026-01-16T03:45:10.275914",
-      "last_seen": "2026-01-16T16:33:34.984902"
+      "last_seen": "2026-01-16T17:27:03.442139"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640147-3956/engineering-project-manager-customer-systems?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200640147-3956/engineering-project-manager-customer-systems?team=SFTWR",
+      "first_seen": "2026-01-16T17:27:03.441950",
+      "last_seen": "2026-01-16T17:27:03.441951"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640821-3401/technical-program-manager-mac?team=OPMFG": {
+      "company": "Apple",
+      "title": "Technical Program Manager - Mac",
+      "url": "https://jobs.apple.com/en-us/details/200640821-3401/technical-program-manager-mac?team=OPMFG",
+      "first_seen": "2026-01-16T17:27:03.441963",
+      "last_seen": "2026-01-16T17:27:03.441964"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-16T16:33:34.984968",
-    "total_jobs": 247
+    "last_updated": "2026-01-16T17:27:03.442289",
+    "total_jobs": 249
   }
 }
