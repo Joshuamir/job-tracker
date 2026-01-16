@@ -1763,10 +1763,24 @@
       "url": "https://jobs.apple.com/en-us/details/200635410-0836/senior-engineering-program-manager-ai-platform-infrastructure-apple-services-engineering?team=SFTWR",
       "first_seen": "2026-01-16T19:39:42.886000",
       "last_seen": "2026-01-16T20:44:40.963845"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
+      "first_seen": "2026-01-16T21:24:19.605939",
+      "last_seen": "2026-01-16T21:24:19.605949"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200642213-0836/wireless-rf-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Wireless/RF Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200642213-0836/wireless-rf-engineering-program-manager?team=HRDWR",
+      "first_seen": "2026-01-16T21:24:19.605978",
+      "last_seen": "2026-01-16T21:24:19.605979"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-16T20:44:40.963912",
-    "total_jobs": 252
+    "last_updated": "2026-01-16T21:24:19.606346",
+    "total_jobs": 254
   }
 }
