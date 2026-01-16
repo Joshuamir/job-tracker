@@ -1720,7 +1720,7 @@
       "title": "Senior Engineering Program Manager, AI Platform Infrastructure, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200635410-3337/senior-engineering-program-manager-ai-platform-infrastructure-apple-services-engineering?team=SFTWR",
       "first_seen": "2026-01-16T01:58:15.228095",
-      "last_seen": "2026-01-16T17:27:03.442145"
+      "last_seen": "2026-01-16T19:39:42.886286"
     },
     "Apple||https://jobs.apple.com/en-us/details/200642093-0836/wireless-rf-engineering-program-manager?team=HRDWR": {
       "company": "Apple",
@@ -1748,18 +1748,25 @@
       "title": "Engineering Program Manager - GGML",
       "url": "https://jobs.apple.com/en-us/details/200641491-0836/engineering-program-manager-ggml?team=SFTWR",
       "first_seen": "2026-01-16T18:37:31.158604",
-      "last_seen": "2026-01-16T19:21:39.252685"
+      "last_seen": "2026-01-16T19:39:42.886281"
     },
     "Apple||https://jobs.apple.com/en-us/details/200640894-0836/new-product-operations-program-manager-mac?team=OPMFG": {
       "company": "Apple",
       "title": "New Product Operations Program Manager, Mac",
       "url": "https://jobs.apple.com/en-us/details/200640894-0836/new-product-operations-program-manager-mac?team=OPMFG",
       "first_seen": "2026-01-16T19:21:39.252401",
-      "last_seen": "2026-01-16T19:21:39.252410"
+      "last_seen": "2026-01-16T19:39:42.886235"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200635410-0836/senior-engineering-program-manager-ai-platform-infrastructure-apple-services-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Senior Engineering Program Manager, AI Platform Infrastructure, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200635410-0836/senior-engineering-program-manager-ai-platform-infrastructure-apple-services-engineering?team=SFTWR",
+      "first_seen": "2026-01-16T19:39:42.886000",
+      "last_seen": "2026-01-16T19:39:42.886002"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-16T19:21:39.252739",
-    "total_jobs": 251
+    "last_updated": "2026-01-16T19:39:42.886341",
+    "total_jobs": 252
   }
 }
