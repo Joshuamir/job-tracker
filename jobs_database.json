@@ -411,7 +411,7 @@
       "title": "Engineering Program Manager, Global Siri",
       "url": "https://jobs.apple.com/en-us/details/200628187-0836/engineering-program-manager-global-siri?team=SFTWR",
       "first_seen": "2025-12-04T01:50:29.929630",
-      "last_seen": "2025-12-04T16:33:51.124310"
+      "last_seen": "2026-01-21T22:55:30.087023"
     },
     "Apple||https://jobs.apple.com/en-us/details/200635025-0836/ios-safari-software-development-engineer?team=SFTWR": {
       "company": "Apple",
@@ -425,7 +425,7 @@
       "title": "Engineering Program Manager, Global Siri",
       "url": "https://jobs.apple.com/en-us/details/200628187-3337/engineering-program-manager-global-siri?team=SFTWR",
       "first_seen": "2025-12-04T01:50:29.929648",
-      "last_seen": "2025-12-04T16:33:51.124313"
+      "last_seen": "2026-01-21T22:55:30.087099"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633571-3337/engineering-program-manager-cloudkit-apple-service-engineering?team=SFTWR": {
       "company": "Apple",
@@ -1882,10 +1882,17 @@
       "url": "https://jobs.apple.com/en-us/details/200641742-0836/engineering-program-manager-apple-services-engineering-app-store?team=SFTWR",
       "first_seen": "2026-01-21T16:56:21.968340",
       "last_seen": "2026-01-21T19:55:01.783606"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200620949-0836/business-process-program-manager-ww-sales-bpr?team=SLDEV": {
+      "company": "Apple",
+      "title": "Business Process Program Manager, WW Sales BPR",
+      "url": "https://jobs.apple.com/en-us/details/200620949-0836/business-process-program-manager-ww-sales-bpr?team=SLDEV",
+      "first_seen": "2026-01-21T22:55:30.086636",
+      "last_seen": "2026-01-21T22:55:30.086637"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-21T22:29:12.076294",
-    "total_jobs": 269
+    "last_updated": "2026-01-21T22:55:30.087198",
+    "total_jobs": 270
   }
 }
