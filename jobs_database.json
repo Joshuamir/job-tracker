@@ -1889,10 +1889,38 @@
       "url": "https://jobs.apple.com/en-us/details/200620949-0836/business-process-program-manager-ww-sales-bpr?team=SLDEV",
       "first_seen": "2026-01-21T22:55:30.086636",
       "last_seen": "2026-01-21T23:51:14.237043"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200642973-3543/software-development-engineer-ci-cd?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer, CI/CD",
+      "url": "https://jobs.apple.com/en-us/details/200642973-3543/software-development-engineer-ci-cd?team=SFTWR",
+      "first_seen": "2026-01-22T02:01:33.195286",
+      "last_seen": "2026-01-22T02:01:33.195301"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200642910-0836/swe-factory-engineering-program-manager?team=SFTWR": {
+      "company": "Apple",
+      "title": "SWE Factory Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200642910-0836/swe-factory-engineering-program-manager?team=SFTWR",
+      "first_seen": "2026-01-22T02:01:33.195320",
+      "last_seen": "2026-01-22T02:01:33.195321"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200642973-0836/software-development-engineer-ci-cd?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer, CI/CD",
+      "url": "https://jobs.apple.com/en-us/details/200642973-0836/software-development-engineer-ci-cd?team=SFTWR",
+      "first_seen": "2026-01-22T02:01:33.195330",
+      "last_seen": "2026-01-22T02:01:33.195331"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200642948-0836/software-development-engineer-in-test-coreos-kernel-quality-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test - CoreOS Kernel Quality Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200642948-0836/software-development-engineer-in-test-coreos-kernel-quality-engineering?team=SFTWR",
+      "first_seen": "2026-01-22T02:01:33.195350",
+      "last_seen": "2026-01-22T02:01:33.195351"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-21T23:51:14.237114",
-    "total_jobs": 270
+    "last_updated": "2026-01-22T02:01:33.195836",
+    "total_jobs": 274
   }
 }
