@@ -1895,7 +1895,7 @@
       "title": "Software Development Engineer, CI/CD",
       "url": "https://jobs.apple.com/en-us/details/200642973-3543/software-development-engineer-ci-cd?team=SFTWR",
       "first_seen": "2026-01-22T02:01:33.195286",
-      "last_seen": "2026-01-22T16:39:06.670330"
+      "last_seen": "2026-01-22T17:31:48.874016"
     },
     "Apple||https://jobs.apple.com/en-us/details/200642910-0836/swe-factory-engineering-program-manager?team=SFTWR": {
       "company": "Apple",
@@ -1909,7 +1909,7 @@
       "title": "Software Development Engineer, CI/CD",
       "url": "https://jobs.apple.com/en-us/details/200642973-0836/software-development-engineer-ci-cd?team=SFTWR",
       "first_seen": "2026-01-22T02:01:33.195330",
-      "last_seen": "2026-01-22T16:39:06.670323"
+      "last_seen": "2026-01-22T17:31:48.874024"
     },
     "Apple||https://jobs.apple.com/en-us/details/200642948-0836/software-development-engineer-in-test-coreos-kernel-quality-engineering?team=SFTWR": {
       "company": "Apple",
@@ -1923,11 +1923,25 @@
       "title": "Senior Technical Program Manager – Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200610997-0157/senior-technical-program-manager-strategic-data-solutions?team=SFTWR",
       "first_seen": "2026-01-22T16:39:06.669978",
-      "last_seen": "2026-01-22T16:39:06.669986"
+      "last_seen": "2026-01-22T17:31:48.874022"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200641792-0240/software-development-engineer-full-stack-engineer-j2ee-is-t-enterprise-systems?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer (Full Stack Engineer - J2EE), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200641792-0240/software-development-engineer-full-stack-engineer-j2ee-is-t-enterprise-systems?team=SFTWR",
+      "first_seen": "2026-01-22T17:31:48.873783",
+      "last_seen": "2026-01-22T17:31:48.873784"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643073-3577/engineering-program-manager-podcasts-apple-services-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager, Podcasts, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200643073-3577/engineering-program-manager-podcasts-apple-services-engineering?team=SFTWR",
+      "first_seen": "2026-01-22T17:31:48.873787",
+      "last_seen": "2026-01-22T17:31:48.873788"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-22T16:39:06.670388",
-    "total_jobs": 275
+    "last_updated": "2026-01-22T17:31:48.874159",
+    "total_jobs": 277
   }
 }
