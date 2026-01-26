@@ -1118,7 +1118,7 @@
       "title": "Engineering Project Manager, Apps",
       "url": "https://jobs.apple.com/en-us/details/200636378-0836/engineering-project-manager-apps?team=SFTWR",
       "first_seen": "2025-12-17T21:23:37.968089",
-      "last_seen": "2025-12-17T22:45:44.902777"
+      "last_seen": "2026-01-26T21:27:42.003294"
     },
     "Apple||https://jobs.apple.com/en-us/details/200626438-3401/issuer-business-development-manager-apple-pay?team=MKTG": {
       "company": "Apple",
@@ -1678,7 +1678,7 @@
       "title": "Semiconductor Development Operations Manager",
       "url": "https://jobs.apple.com/en-us/details/200641986-3401/semiconductor-development-operations-manager?team=HRDWR",
       "first_seen": "2026-01-15T20:29:26.533794",
-      "last_seen": "2026-01-26T20:31:19.295241"
+      "last_seen": "2026-01-26T21:27:42.003302"
     },
     "Apple||https://jobs.apple.com/en-us/details/200641948-0365/ar-vr-software-development-engineer-vision-products-software?team=SFTWR": {
       "company": "Apple",
@@ -2015,10 +2015,24 @@
       "url": "https://jobs.apple.com/en-us/details/200643415-0836/accessories-engineering-program-manager?team=HRDWR",
       "first_seen": "2026-01-24T01:54:17.699958",
       "last_seen": "2026-01-26T17:33:00.388977"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200636378-2926/engineering-project-manager-apps?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager, Apps",
+      "url": "https://jobs.apple.com/en-us/details/200636378-2926/engineering-project-manager-apps?team=SFTWR",
+      "first_seen": "2026-01-26T21:27:42.002875",
+      "last_seen": "2026-01-26T21:27:42.002886"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200630961-0836/sw-development-engineer-system-rf-data-ecosystem?team=HRDWR": {
+      "company": "Apple",
+      "title": "SW Development Engineer: System RF Data Ecosystem",
+      "url": "https://jobs.apple.com/en-us/details/200630961-0836/sw-development-engineer-system-rf-data-ecosystem?team=HRDWR",
+      "first_seen": "2026-01-26T21:27:42.002897",
+      "last_seen": "2026-01-26T21:27:42.002899"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-26T20:31:19.295307",
-    "total_jobs": 288
+    "last_updated": "2026-01-26T21:27:42.003388",
+    "total_jobs": 290
   }
 }
