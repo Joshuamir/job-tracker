@@ -2050,10 +2050,17 @@
       "url": "https://jobs.apple.com/en-us/details/200643508-3337/ise-incubation-software-development-engineer?team=SFTWR",
       "first_seen": "2026-01-27T02:04:36.805108",
       "last_seen": "2026-01-27T15:33:59.997376"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200639903-0836/iphone-hardware-engineering-program-manager-hw-epm?team=HRDWR": {
+      "company": "Apple",
+      "title": "iPhone Hardware Engineering Program Manager (HW EPM)",
+      "url": "https://jobs.apple.com/en-us/details/200639903-0836/iphone-hardware-engineering-program-manager-hw-epm?team=HRDWR",
+      "first_seen": "2026-01-27T17:30:56.548681",
+      "last_seen": "2026-01-27T17:30:56.548695"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-27T16:34:26.004039",
-    "total_jobs": 293
+    "last_updated": "2026-01-27T17:30:56.549109",
+    "total_jobs": 294
   }
 }
