@@ -2064,10 +2064,31 @@
       "url": "https://jobs.apple.com/en-us/details/200643830-0157/manager-engineering-program-management-epm-apple-ads?team=SFTWR",
       "first_seen": "2026-01-27T18:43:07.553619",
       "last_seen": "2026-01-27T18:43:07.553631"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643250-3401/software-development-engineer-intelligence-platform?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer - Intelligence Platform",
+      "url": "https://jobs.apple.com/en-us/details/200643250-3401/software-development-engineer-intelligence-platform?team=SFTWR",
+      "first_seen": "2026-01-28T02:00:37.336117",
+      "last_seen": "2026-01-28T02:00:37.336129"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643940-3543/software-development-engineer-ci-cd?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer, CI/CD",
+      "url": "https://jobs.apple.com/en-us/details/200643940-3543/software-development-engineer-ci-cd?team=SFTWR",
+      "first_seen": "2026-01-28T02:00:37.336155",
+      "last_seen": "2026-01-28T02:00:37.336156"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643940-0836/software-development-engineer-ci-cd?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer, CI/CD",
+      "url": "https://jobs.apple.com/en-us/details/200643940-0836/software-development-engineer-ci-cd?team=SFTWR",
+      "first_seen": "2026-01-28T02:00:37.336173",
+      "last_seen": "2026-01-28T02:00:37.336174"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-27T23:46:30.277571",
-    "total_jobs": 295
+    "last_updated": "2026-01-28T02:00:37.336638",
+    "total_jobs": 298
   }
 }
