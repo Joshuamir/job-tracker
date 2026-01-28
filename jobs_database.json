@@ -96,7 +96,7 @@
       "title": "Engineering Program Manager, SWE tvOS",
       "url": "https://jobs.apple.com/en-us/details/200633223-0836/engineering-program-manager-swe-tvos?team=SFTWR",
       "first_seen": "2025-11-20T03:11:59.878115",
-      "last_seen": "2026-01-28T19:32:31.144488"
+      "last_seen": "2026-01-28T22:30:36.753274"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633256-0836/software-engineering-program-manager-system-experience?team=SFTWR": {
       "company": "Apple",
@@ -2126,11 +2126,18 @@
       "title": "Engineering Project Manager ( Software Solutions), Supply Chain Integration",
       "url": "https://jobs.apple.com/en-us/details/200622798-0157/engineering-project-manager-software-solutions-supply-chain-integration?team=OPMFG",
       "first_seen": "2026-01-28T21:32:49.404245",
-      "last_seen": "2026-01-28T21:32:49.404258"
+      "last_seen": "2026-01-28T22:30:36.753324"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644162-3543/software-development-engineer-in-test-core-i-o-quality-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test - Core I/O Quality Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200644162-3543/software-development-engineer-in-test-core-i-o-quality-engineering?team=SFTWR",
+      "first_seen": "2026-01-28T22:30:36.753025",
+      "last_seen": "2026-01-28T22:30:36.753026"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-28T21:32:49.404788",
-    "total_jobs": 304
+    "last_updated": "2026-01-28T22:30:36.753378",
+    "total_jobs": 305
   }
 }
