@@ -96,7 +96,7 @@
       "title": "Engineering Program Manager, SWE tvOS",
       "url": "https://jobs.apple.com/en-us/details/200633223-0836/engineering-program-manager-swe-tvos?team=SFTWR",
       "first_seen": "2025-11-20T03:11:59.878115",
-      "last_seen": "2026-01-28T18:41:32.846218"
+      "last_seen": "2026-01-28T19:32:31.144488"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633256-0836/software-engineering-program-manager-system-experience?team=SFTWR": {
       "company": "Apple",
@@ -2098,18 +2098,25 @@
       "title": "Onboarding Program Manager, IS&T Communications",
       "url": "https://jobs.apple.com/en-us/details/200641702-3956/onboarding-program-manager-is-t-communications?team=CORSV",
       "first_seen": "2026-01-28T17:35:10.007313",
-      "last_seen": "2026-01-28T18:41:32.846208"
+      "last_seen": "2026-01-28T19:32:31.144493"
     },
     "Apple||https://jobs.apple.com/en-us/details/200644064-3337/software-development-engineer-ase-observabilty?team=SFTWR": {
       "company": "Apple",
       "title": "Software Development Engineer- ASE- Observabilty",
       "url": "https://jobs.apple.com/en-us/details/200644064-3337/software-development-engineer-ase-observabilty?team=SFTWR",
       "first_seen": "2026-01-28T18:41:32.845942",
-      "last_seen": "2026-01-28T18:41:32.845943"
+      "last_seen": "2026-01-28T19:32:31.144481"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644073-0836/engineering-project-manager-xcode?team=CORSV": {
+      "company": "Apple",
+      "title": "Engineering Project Manager - Xcode",
+      "url": "https://jobs.apple.com/en-us/details/200644073-0836/engineering-project-manager-xcode?team=CORSV",
+      "first_seen": "2026-01-28T19:32:31.144091",
+      "last_seen": "2026-01-28T19:32:31.144103"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-28T18:41:32.846331",
-    "total_jobs": 301
+    "last_updated": "2026-01-28T19:32:31.144551",
+    "total_jobs": 302
   }
 }
