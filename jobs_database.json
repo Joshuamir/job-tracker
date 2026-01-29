@@ -2147,7 +2147,7 @@
       "title": "Engineering Program Manager - Human Factors Research",
       "url": "https://jobs.apple.com/en-us/details/200644190-3956/engineering-program-manager-human-factors-research?team=HRDWR",
       "first_seen": "2026-01-29T02:22:44.236358",
-      "last_seen": "2026-01-29T22:31:26.123744"
+      "last_seen": "2026-01-29T23:29:57.775880"
     },
     "Apple||https://jobs.apple.com/en-us/details/200644217-2605/ar-vr-software-development-engineer-vision-products-software?team=SFTWR": {
       "company": "Apple",
@@ -2253,10 +2253,24 @@
       "url": "https://jobs.apple.com/en-us/details/200634945-0836/sr-engineering-program-manager-aiml-data-operations?team=MLAI",
       "first_seen": "2026-01-29T20:35:01.771299",
       "last_seen": "2026-01-29T20:35:01.771300"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643198-0670/learning-program-manager-apple-ads?team=SLDEV": {
+      "company": "Apple",
+      "title": "Learning Program Manager - Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200643198-0670/learning-program-manager-apple-ads?team=SLDEV",
+      "first_seen": "2026-01-29T23:29:57.775467",
+      "last_seen": "2026-01-29T23:29:57.775478"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643198-3577/learning-program-manager-apple-ads?team=SLDEV": {
+      "company": "Apple",
+      "title": "Learning Program Manager - Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200643198-3577/learning-program-manager-apple-ads?team=SLDEV",
+      "first_seen": "2026-01-29T23:29:57.775498",
+      "last_seen": "2026-01-29T23:29:57.775499"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-29T22:31:26.123804",
-    "total_jobs": 322
+    "last_updated": "2026-01-29T23:29:57.775938",
+    "total_jobs": 324
   }
 }
