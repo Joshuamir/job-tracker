@@ -2217,28 +2217,28 @@
       "title": "ALAC Business & Education Channel Business Development Lead",
       "url": "https://jobs.apple.com/en-us/details/200644142-1269/alac-business-education-channel-business-development-lead?team=SLDEV",
       "first_seen": "2026-01-29T19:09:35.297571",
-      "last_seen": "2026-01-29T19:52:54.284971"
+      "last_seen": "2026-01-29T20:35:01.771511"
     },
     "Apple||https://jobs.apple.com/en-us/details/200644194-0157/factory-soc-test-support-engineering-program-manager?team=HRDWR": {
       "company": "Apple",
       "title": "Factory SoC Test Support Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200644194-0157/factory-soc-test-support-engineering-program-manager?team=HRDWR",
       "first_seen": "2026-01-29T19:09:35.297593",
-      "last_seen": "2026-01-29T19:52:54.284966"
+      "last_seen": "2026-01-29T20:35:01.771565"
     },
     "Apple||https://jobs.apple.com/en-us/details/200641383-3337/ar-vr-software-development-engineer?team=SFTWR": {
       "company": "Apple",
       "title": "AR/VR Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200641383-3337/ar-vr-software-development-engineer?team=SFTWR",
       "first_seen": "2026-01-29T19:09:35.297602",
-      "last_seen": "2026-01-29T19:52:54.284969"
+      "last_seen": "2026-01-29T20:35:01.771517"
     },
     "Apple||https://jobs.apple.com/en-us/details/200644194-0505/factory-soc-test-support-engineering-program-manager?team=HRDWR": {
       "company": "Apple",
       "title": "Factory SoC Test Support Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200644194-0505/factory-soc-test-support-engineering-program-manager?team=HRDWR",
       "first_seen": "2026-01-29T19:09:35.297615",
-      "last_seen": "2026-01-29T19:52:54.284954"
+      "last_seen": "2026-01-29T20:35:01.771561"
     },
     "Apple||https://jobs.apple.com/en-us/details/200644194-0836/factory-soc-test-support-engineering-program-manager?team=HRDWR": {
       "company": "Apple",
@@ -2246,10 +2246,17 @@
       "url": "https://jobs.apple.com/en-us/details/200644194-0836/factory-soc-test-support-engineering-program-manager?team=HRDWR",
       "first_seen": "2026-01-29T19:09:35.297638",
       "last_seen": "2026-01-29T19:52:54.284963"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200634945-0836/sr-engineering-program-manager-aiml-data-operations?team=MLAI": {
+      "company": "Apple",
+      "title": "Sr Engineering Program Manager, AIML Data Operations",
+      "url": "https://jobs.apple.com/en-us/details/200634945-0836/sr-engineering-program-manager-aiml-data-operations?team=MLAI",
+      "first_seen": "2026-01-29T20:35:01.771299",
+      "last_seen": "2026-01-29T20:35:01.771300"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-29T19:52:54.285027",
-    "total_jobs": 321
+    "last_updated": "2026-01-29T20:35:01.771631",
+    "total_jobs": 322
   }
 }
