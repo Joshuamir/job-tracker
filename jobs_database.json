@@ -2295,10 +2295,17 @@
       "url": "https://jobs.apple.com/en-us/details/200644290-3543/software-development-engineer-firmware?team=HRDWR",
       "first_seen": "2026-01-30T15:59:16.140469",
       "last_seen": "2026-01-30T16:53:22.758328"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643734-0157/engineering-project-manager-salesforce-gse-solutions-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager (Salesforce), GSE Solutions Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200643734-0157/engineering-project-manager-salesforce-gse-solutions-engineering?team=SFTWR",
+      "first_seen": "2026-01-30T20:34:21.769411",
+      "last_seen": "2026-01-30T20:34:21.769419"
     }
   },
   "metadata": {
-    "last_updated": "2026-01-30T19:34:43.308563",
-    "total_jobs": 328
+    "last_updated": "2026-01-30T20:34:21.769714",
+    "total_jobs": 329
   }
 }
