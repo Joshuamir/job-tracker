@@ -2463,10 +2463,38 @@
       "url": "https://jobs.apple.com/en-us/details/200644616-0836/places-new-store-opening-nso-program-manager?team=CORSV",
       "first_seen": "2026-02-03T21:46:02.656067",
       "last_seen": "2026-02-03T23:42:06.113979"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644363-0836/test-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Test Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200644363-0836/test-engineering-program-manager?team=HRDWR",
+      "first_seen": "2026-02-04T03:03:02.589961",
+      "last_seen": "2026-02-04T03:03:02.589973"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200633399-2814/construction-project-manager?team=CORSV": {
+      "company": "Apple",
+      "title": "Construction Project Manager",
+      "url": "https://jobs.apple.com/en-us/details/200633399-2814/construction-project-manager?team=CORSV",
+      "first_seen": "2026-02-04T03:03:02.589977",
+      "last_seen": "2026-02-04T03:03:02.589978"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644384-0836/sensing-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Sensing Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200644384-0836/sensing-engineering-program-manager?team=HRDWR",
+      "first_seen": "2026-02-04T03:03:02.590000",
+      "last_seen": "2026-02-04T03:03:02.590001"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644516-0836/display-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "Display Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200644516-0836/display-engineering-program-manager?team=HRDWR",
+      "first_seen": "2026-02-04T03:03:02.590015",
+      "last_seen": "2026-02-04T03:03:02.590016"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-04T01:38:24.451783",
-    "total_jobs": 352
+    "last_updated": "2026-02-04T03:03:02.590469",
+    "total_jobs": 356
   }
 }
