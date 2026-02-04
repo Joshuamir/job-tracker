@@ -2540,10 +2540,24 @@
       "url": "https://jobs.apple.com/en-us/details/200624581-3749/construction-project-manager-internship?team=CORSV",
       "first_seen": "2026-02-04T21:44:49.140817",
       "last_seen": "2026-02-04T23:10:06.030156"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200624228-0836/mechanical-engineer-equipment-design?team=HRDWR": {
+      "company": "Apple",
+      "title": "Mechanical Engineer (Equipment Design)",
+      "url": "https://jobs.apple.com/en-us/details/200624228-0836/mechanical-engineer-equipment-design?team=HRDWR",
+      "first_seen": "2026-02-04T23:42:17.390826",
+      "last_seen": "2026-02-04T23:42:17.390836"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200608077-0836/test-instrumentation-development-engineer?team=HRDWR": {
+      "company": "Apple",
+      "title": "Test & Instrumentation Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200608077-0836/test-instrumentation-development-engineer?team=HRDWR",
+      "first_seen": "2026-02-04T23:42:17.390868",
+      "last_seen": "2026-02-04T23:42:17.390869"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-04T23:10:06.030213",
-    "total_jobs": 363
+    "last_updated": "2026-02-04T23:42:17.391253",
+    "total_jobs": 365
   }
 }
