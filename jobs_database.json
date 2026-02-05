@@ -677,7 +677,7 @@
       "title": "Panel Technologies Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200634893-0836/panel-technologies-engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-09T01:50:42.564760",
-      "last_seen": "2026-02-05T21:14:22.058835"
+      "last_seen": "2026-02-05T21:43:46.625718"
     },
     "Apple||https://jobs.apple.com/en-us/details/200635120-0836/aiml-sr-engineering-program-manager-production-engineering?team=MLAI": {
       "company": "Apple",
@@ -2581,32 +2581,39 @@
       "title": "Cellular Protocol Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200644653-3543/cellular-protocol-development-engineer?team=SFTWR",
       "first_seen": "2026-02-05T19:19:42.802227",
-      "last_seen": "2026-02-05T21:14:22.058788"
+      "last_seen": "2026-02-05T21:43:46.625734"
     },
     "Apple||https://jobs.apple.com/en-us/details/200620241-3337/aiml-sr-engineering-program-manager-apple-intelligence-and-model-evaluation?team=MLAI": {
       "company": "Apple",
       "title": "AIML - Sr Engineering Program Manager, Apple Intelligence and Model Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200620241-3337/aiml-sr-engineering-program-manager-apple-intelligence-and-model-evaluation?team=MLAI",
       "first_seen": "2026-02-05T20:46:23.800119",
-      "last_seen": "2026-02-05T21:14:22.058795"
+      "last_seen": "2026-02-05T21:43:46.625725"
     },
     "Apple||https://jobs.apple.com/en-us/details/200620241-0836/aiml-sr-engineering-program-manager-apple-intelligence-and-model-evaluation?team=MLAI": {
       "company": "Apple",
       "title": "AIML - Sr Engineering Program Manager, Apple Intelligence and Model Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200620241-0836/aiml-sr-engineering-program-manager-apple-intelligence-and-model-evaluation?team=MLAI",
       "first_seen": "2026-02-05T20:46:23.800163",
-      "last_seen": "2026-02-05T21:14:22.058841"
+      "last_seen": "2026-02-05T21:43:46.625728"
     },
     "Apple||https://jobs.apple.com/en-us/details/200645132-0157/engineering-project-manager-online-store-fraud-fulfillment-strategic-data-solutions?team=SFTWR": {
       "company": "Apple",
       "title": "Engineering Project Manager, Online Store Fraud & Fulfillment- Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200645132-0157/engineering-project-manager-online-store-fraud-fulfillment-strategic-data-solutions?team=SFTWR",
       "first_seen": "2026-02-05T21:14:22.058467",
-      "last_seen": "2026-02-05T21:14:22.058468"
+      "last_seen": "2026-02-05T21:43:46.625731"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645441-0836/soc-security-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "SoC Security Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200645441-0836/soc-security-engineering-program-manager?team=HRDWR",
+      "first_seen": "2026-02-05T21:43:46.625420",
+      "last_seen": "2026-02-05T21:43:46.625428"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-05T21:14:22.058903",
-    "total_jobs": 372
+    "last_updated": "2026-02-05T21:43:46.625805",
+    "total_jobs": 373
   }
 }
