@@ -2610,10 +2610,17 @@
       "url": "https://jobs.apple.com/en-us/details/200645441-0836/soc-security-engineering-program-manager?team=HRDWR",
       "first_seen": "2026-02-05T21:43:46.625420",
       "last_seen": "2026-02-05T23:09:25.477910"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645440-3543/software-development-engineer-in-test-backup-and-migration?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test, Backup and Migration",
+      "url": "https://jobs.apple.com/en-us/details/200645440-3543/software-development-engineer-in-test-backup-and-migration?team=SFTWR",
+      "first_seen": "2026-02-05T23:40:46.871498",
+      "last_seen": "2026-02-05T23:40:46.871507"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-05T23:09:25.477944",
-    "total_jobs": 373
+    "last_updated": "2026-02-05T23:40:46.871840",
+    "total_jobs": 374
   }
 }
