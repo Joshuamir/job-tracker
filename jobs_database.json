@@ -677,7 +677,7 @@
       "title": "Panel Technologies Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200634893-0836/panel-technologies-engineering-program-manager?team=HRDWR",
       "first_seen": "2025-12-09T01:50:42.564760",
-      "last_seen": "2025-12-09T16:31:11.394818"
+      "last_seen": "2026-02-05T19:19:42.802507"
     },
     "Apple||https://jobs.apple.com/en-us/details/200635120-0836/aiml-sr-engineering-program-manager-production-engineering?team=MLAI": {
       "company": "Apple",
@@ -2560,7 +2560,7 @@
       "title": "Engineering Program Manager (Strategic Programs), Retail & Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200643883-3956/engineering-program-manager-strategic-programs-retail-marcom-engineering?team=SFTWR",
       "first_seen": "2026-02-05T17:48:50.490395",
-      "last_seen": "2026-02-05T18:48:34.711134"
+      "last_seen": "2026-02-05T19:19:42.802511"
     },
     "Apple||https://jobs.apple.com/en-us/details/200645202-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR": {
       "company": "Apple",
@@ -2575,10 +2575,17 @@
       "url": "https://jobs.apple.com/en-us/details/200644089-0836/npi-operations-program-manager-ww-sales?team=SLDEV",
       "first_seen": "2026-02-05T17:48:50.490423",
       "last_seen": "2026-02-05T17:48:50.490424"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644653-3543/cellular-protocol-development-engineer?team=SFTWR": {
+      "company": "Apple",
+      "title": "Cellular Protocol Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200644653-3543/cellular-protocol-development-engineer?team=SFTWR",
+      "first_seen": "2026-02-05T19:19:42.802227",
+      "last_seen": "2026-02-05T19:19:42.802237"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-05T18:48:34.711189",
-    "total_jobs": 368
+    "last_updated": "2026-02-05T19:19:42.802541",
+    "total_jobs": 369
   }
 }
