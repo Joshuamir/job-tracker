@@ -2554,10 +2554,31 @@
       "url": "https://jobs.apple.com/en-us/details/200608077-0836/test-instrumentation-development-engineer?team=HRDWR",
       "first_seen": "2026-02-04T23:42:17.390868",
       "last_seen": "2026-02-05T16:48:50.563260"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200643883-3956/engineering-program-manager-strategic-programs-retail-marcom-engineering?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager (Strategic Programs), Retail & Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200643883-3956/engineering-program-manager-strategic-programs-retail-marcom-engineering?team=SFTWR",
+      "first_seen": "2026-02-05T17:48:50.490395",
+      "last_seen": "2026-02-05T17:48:50.490401"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645202-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200645202-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
+      "first_seen": "2026-02-05T17:48:50.490404",
+      "last_seen": "2026-02-05T17:48:50.490406"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644089-0836/npi-operations-program-manager-ww-sales?team=SLDEV": {
+      "company": "Apple",
+      "title": "NPI Operations Program Manager, WW Sales",
+      "url": "https://jobs.apple.com/en-us/details/200644089-0836/npi-operations-program-manager-ww-sales?team=SLDEV",
+      "first_seen": "2026-02-05T17:48:50.490423",
+      "last_seen": "2026-02-05T17:48:50.490424"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-05T17:21:48.475485",
-    "total_jobs": 365
+    "last_updated": "2026-02-05T17:48:50.490741",
+    "total_jobs": 368
   }
 }
