@@ -2631,10 +2631,24 @@
       "url": "https://jobs.apple.com/en-us/details/200643989-0157/capex-program-manager-mac?team=OPMFG",
       "first_seen": "2026-02-06T17:19:27.603175",
       "last_seen": "2026-02-06T19:45:09.814652"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645779-0836/expansion-program-manager-services-operations?team=MKTG": {
+      "company": "Apple",
+      "title": "Expansion Program Manager - Services Operations",
+      "url": "https://jobs.apple.com/en-us/details/200645779-0836/expansion-program-manager-services-operations?team=MKTG",
+      "first_seen": "2026-02-06T20:11:24.004742",
+      "last_seen": "2026-02-06T20:11:24.004751"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645761-3760/sr-r-d-equipment-design-development-engineer?team=HRDWR": {
+      "company": "Apple",
+      "title": "Sr. R&D Equipment Design & Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200645761-3760/sr-r-d-equipment-design-development-engineer?team=HRDWR",
+      "first_seen": "2026-02-06T20:11:24.004784",
+      "last_seen": "2026-02-06T20:11:24.004785"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-06T19:45:09.814717",
-    "total_jobs": 376
+    "last_updated": "2026-02-06T20:11:24.005168",
+    "total_jobs": 378
   }
 }
