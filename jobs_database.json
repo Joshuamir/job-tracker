@@ -2708,10 +2708,17 @@
       "url": "https://jobs.apple.com/en-us/details/200645654-3543/program-manager-hwe-operations-planning-and-operations?team=HRDWR",
       "first_seen": "2026-02-07T00:35:02.506147",
       "last_seen": "2026-02-08T23:44:15.002119"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645990-3543/software-development-engineer-in-test-sdet-wallet-payments-commerce?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test (SDET), Wallet Payments & Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200645990-3543/software-development-engineer-in-test-sdet-wallet-payments-commerce?team=SFTWR",
+      "first_seen": "2026-02-09T17:22:53.756424",
+      "last_seen": "2026-02-09T17:22:53.756431"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-09T16:25:20.121725",
-    "total_jobs": 387
+    "last_updated": "2026-02-09T17:22:53.756720",
+    "total_jobs": 388
   }
 }
