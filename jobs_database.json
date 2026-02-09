@@ -411,7 +411,7 @@
       "title": "Engineering Program Manager, Global Siri",
       "url": "https://jobs.apple.com/en-us/details/200628187-0836/engineering-program-manager-global-siri?team=SFTWR",
       "first_seen": "2025-12-04T01:50:29.929630",
-      "last_seen": "2026-02-09T22:15:22.717138"
+      "last_seen": "2026-02-09T22:47:24.753453"
     },
     "Apple||https://jobs.apple.com/en-us/details/200635025-0836/ios-safari-software-development-engineer?team=SFTWR": {
       "company": "Apple",
@@ -425,7 +425,7 @@
       "title": "Engineering Program Manager, Global Siri",
       "url": "https://jobs.apple.com/en-us/details/200628187-3337/engineering-program-manager-global-siri?team=SFTWR",
       "first_seen": "2025-12-04T01:50:29.929648",
-      "last_seen": "2026-02-09T22:15:22.717144"
+      "last_seen": "2026-02-09T22:47:24.753446"
     },
     "Apple||https://jobs.apple.com/en-us/details/200633571-3337/engineering-program-manager-cloudkit-apple-service-engineering?team=SFTWR": {
       "company": "Apple",
@@ -2736,10 +2736,17 @@
       "url": "https://jobs.apple.com/en-us/details/200645199-0157/ipad-quality-program-manager?team=HRDWR",
       "first_seen": "2026-02-09T20:47:38.446764",
       "last_seen": "2026-02-09T21:47:28.913734"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645771-0836/software-development-engineer-ci-cd?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer, CI/CD",
+      "url": "https://jobs.apple.com/en-us/details/200645771-0836/software-development-engineer-ci-cd?team=SFTWR",
+      "first_seen": "2026-02-09T22:47:24.753252",
+      "last_seen": "2026-02-09T22:47:24.753253"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-09T22:15:22.717195",
-    "total_jobs": 391
+    "last_updated": "2026-02-09T22:47:24.753572",
+    "total_jobs": 392
   }
 }
