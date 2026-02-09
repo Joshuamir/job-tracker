@@ -2715,10 +2715,17 @@
       "url": "https://jobs.apple.com/en-us/details/200645990-3543/software-development-engineer-in-test-sdet-wallet-payments-commerce?team=SFTWR",
       "first_seen": "2026-02-09T17:22:53.756424",
       "last_seen": "2026-02-09T17:49:13.601137"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200644805-3337/engineering-program-manager-ase-icloud-platform?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Program Manager - ASE / iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200644805-3337/engineering-program-manager-ase-icloud-platform?team=SFTWR",
+      "first_seen": "2026-02-09T18:23:56.483595",
+      "last_seen": "2026-02-09T18:23:56.483604"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-09T17:49:13.601215",
-    "total_jobs": 388
+    "last_updated": "2026-02-09T18:23:56.483936",
+    "total_jobs": 389
   }
 }
