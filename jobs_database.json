@@ -2609,7 +2609,7 @@
       "title": "SoC Security Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200645441-0836/soc-security-engineering-program-manager?team=HRDWR",
       "first_seen": "2026-02-05T21:43:46.625420",
-      "last_seen": "2026-02-05T23:09:25.477910"
+      "last_seen": "2026-02-10T19:29:50.120434"
     },
     "Apple||https://jobs.apple.com/en-us/details/200645440-3543/software-development-engineer-in-test-backup-and-migration?team=SFTWR": {
       "company": "Apple",
@@ -2763,7 +2763,7 @@
       "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200645795-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
       "first_seen": "2026-02-10T04:20:46.543898",
-      "last_seen": "2026-02-10T18:54:36.926724"
+      "last_seen": "2026-02-10T19:29:50.120431"
     },
     "Apple||https://jobs.apple.com/en-us/details/200617504-3956/software-engineering-project-manager-epm-apple-vision-pro?team=SFTWR": {
       "company": "Apple",
@@ -2812,18 +2812,25 @@
       "title": "Software Develpment Engineer in Test (SDET), Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200646062-3543/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR",
       "first_seen": "2026-02-10T18:28:50.464485",
-      "last_seen": "2026-02-10T18:54:36.926740"
+      "last_seen": "2026-02-10T19:29:50.120429"
     },
     "Apple||https://jobs.apple.com/en-us/details/200646062-0836/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR": {
       "company": "Apple",
       "title": "Software Develpment Engineer in Test (SDET), Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200646062-0836/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR",
       "first_seen": "2026-02-10T18:28:50.464555",
-      "last_seen": "2026-02-10T18:54:36.926737"
+      "last_seen": "2026-02-10T19:29:50.120424"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645441-0505/soc-security-engineering-program-manager?team=HRDWR": {
+      "company": "Apple",
+      "title": "SoC Security Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200645441-0505/soc-security-engineering-program-manager?team=HRDWR",
+      "first_seen": "2026-02-10T19:29:50.120187",
+      "last_seen": "2026-02-10T19:29:50.120189"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-10T18:54:36.926802",
-    "total_jobs": 403
+    "last_updated": "2026-02-10T19:29:50.120482",
+    "total_jobs": 404
   }
 }
