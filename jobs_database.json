@@ -2764,10 +2764,38 @@
       "url": "https://jobs.apple.com/en-us/details/200645795-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
       "first_seen": "2026-02-10T04:20:46.543898",
       "last_seen": "2026-02-10T04:20:46.543908"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200617504-3956/software-engineering-project-manager-epm-apple-vision-pro?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Engineering Project Manager (EPM) - Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200617504-3956/software-engineering-project-manager-epm-apple-vision-pro?team=SFTWR",
+      "first_seen": "2026-02-10T05:13:08.807853",
+      "last_seen": "2026-02-10T05:13:08.807864"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200617504-2605/software-engineering-project-manager-epm-apple-vision-pro?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Engineering Project Manager (EPM) - Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200617504-2605/software-engineering-project-manager-epm-apple-vision-pro?team=SFTWR",
+      "first_seen": "2026-02-10T05:13:08.807869",
+      "last_seen": "2026-02-10T05:13:08.807871"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200646063-0836/engineering-project-manager-data-foundation-wallet-and-payments?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager- Data Foundation (Wallet and Payments)",
+      "url": "https://jobs.apple.com/en-us/details/200646063-0836/engineering-project-manager-data-foundation-wallet-and-payments?team=SFTWR",
+      "first_seen": "2026-02-10T05:13:08.807880",
+      "last_seen": "2026-02-10T05:13:08.807881"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200646063-0157/engineering-project-manager-data-foundation-wallet-and-payments?team=SFTWR": {
+      "company": "Apple",
+      "title": "Engineering Project Manager- Data Foundation (Wallet and Payments)",
+      "url": "https://jobs.apple.com/en-us/details/200646063-0157/engineering-project-manager-data-foundation-wallet-and-payments?team=SFTWR",
+      "first_seen": "2026-02-10T05:13:08.807901",
+      "last_seen": "2026-02-10T05:13:08.807902"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-10T04:20:46.544227",
-    "total_jobs": 395
+    "last_updated": "2026-02-10T05:13:08.808349",
+    "total_jobs": 399
   }
 }
