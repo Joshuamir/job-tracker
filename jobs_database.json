@@ -61,7 +61,7 @@
       "title": "New Product Technology Project Manager",
       "url": "https://jobs.apple.com/en-us/details/200628904-0836/new-product-technology-project-manager?team=HRDWR",
       "first_seen": "2025-11-19T19:39:40.884570",
-      "last_seen": "2026-02-10T21:47:46.815628"
+      "last_seen": "2026-02-10T22:18:47.965987"
     },
     "Apple||https://jobs.apple.com/en-us/details/200631049-0157/sox-pmo-it-advisor?team=CORSV": {
       "company": "Apple",
@@ -2756,7 +2756,7 @@
       "title": "Global Strategy & Business Development Senior Executive, Accessibility & Sustainability",
       "url": "https://jobs.apple.com/en-us/details/200645657-0836/global-strategy-business-development-senior-executive-accessibility-sustainability?team=SLDEV",
       "first_seen": "2026-02-10T01:40:05.289607",
-      "last_seen": "2026-02-10T21:47:46.815625"
+      "last_seen": "2026-02-10T22:18:47.965979"
     },
     "Apple||https://jobs.apple.com/en-us/details/200645795-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR": {
       "company": "Apple",
@@ -2798,7 +2798,7 @@
       "title": "Senior Vendor Program Manager, Data Operations",
       "url": "https://jobs.apple.com/en-us/details/200646221-0836/senior-vendor-program-manager-data-operations?team=OPMFG",
       "first_seen": "2026-02-10T17:27:35.046043",
-      "last_seen": "2026-02-10T21:47:46.815636"
+      "last_seen": "2026-02-10T22:18:47.965961"
     },
     "Apple||https://jobs.apple.com/en-us/details/200646043-0836/strategic-partnerships-leader-corporate-development?team=MLAI": {
       "company": "Apple",
@@ -2847,32 +2847,39 @@
       "title": "Engineering Program Manager - Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200643826-3956/engineering-program-manager-customer-systems?team=SFTWR",
       "first_seen": "2026-02-10T20:19:41.188213",
-      "last_seen": "2026-02-10T21:47:46.815615"
+      "last_seen": "2026-02-10T22:18:47.965971"
     },
     "Apple||https://jobs.apple.com/en-us/details/200645659-0157/e-commerce-marketplace-program-manager-ww-cso?team=SLDEV": {
       "company": "Apple",
       "title": "E-commerce Marketplace Program Manager, WW CSO",
       "url": "https://jobs.apple.com/en-us/details/200645659-0157/e-commerce-marketplace-program-manager-ww-cso?team=SLDEV",
       "first_seen": "2026-02-10T21:19:58.647305",
-      "last_seen": "2026-02-10T21:47:46.815621"
+      "last_seen": "2026-02-10T22:18:47.965982"
     },
     "Apple||https://jobs.apple.com/en-us/details/200645813-0157/engineering-program-manager-data-solutions-initiatives?team=SLDEV": {
       "company": "Apple",
       "title": "Engineering Program Manager, Data Solutions & Initiatives",
       "url": "https://jobs.apple.com/en-us/details/200645813-0157/engineering-program-manager-data-solutions-initiatives?team=SLDEV",
       "first_seen": "2026-02-10T21:19:58.647323",
-      "last_seen": "2026-02-10T21:47:46.815631"
+      "last_seen": "2026-02-10T22:18:47.965967"
     },
     "Apple||https://jobs.apple.com/en-us/details/200639871-0836/senior-vendor-program-manager-data-operations?team=OPMFG": {
       "company": "Apple",
       "title": "Senior Vendor Program Manager, Data Operations",
       "url": "https://jobs.apple.com/en-us/details/200639871-0836/senior-vendor-program-manager-data-operations?team=OPMFG",
       "first_seen": "2026-02-10T21:19:58.647354",
-      "last_seen": "2026-02-10T21:47:46.815618"
+      "last_seen": "2026-02-10T22:18:47.965975"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200645787-0836/manufacturing-design-program-manager-mdpm?team=OPMFG": {
+      "company": "Apple",
+      "title": "Manufacturing Design Program Manager (MDPM)",
+      "url": "https://jobs.apple.com/en-us/details/200645787-0836/manufacturing-design-program-manager-mdpm?team=OPMFG",
+      "first_seen": "2026-02-10T22:18:47.965629",
+      "last_seen": "2026-02-10T22:18:47.965640"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-10T21:47:46.815699",
-    "total_jobs": 410
+    "last_updated": "2026-02-10T22:18:47.966062",
+    "total_jobs": 411
   }
 }
