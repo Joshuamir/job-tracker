@@ -2980,7 +2980,7 @@
       "title": "Launch@Apple, Finance Development Experience - 2027 Opportunities",
       "url": "https://jobs.apple.com/en-us/details/200644525-3760/launch-apple-finance-development-experience-2027-opportunities?team=STDNT",
       "first_seen": "2026-02-12T21:45:54.309212",
-      "last_seen": "2026-02-12T22:45:18.673236"
+      "last_seen": "2026-02-12T23:11:07.838005"
     },
     "Apple||https://jobs.apple.com/en-us/details/200646255-0505/hardware-security-engineering-program-manager?team=HRDWR": {
       "company": "Apple",
@@ -3001,11 +3001,25 @@
       "title": "Software Development Engineer Test (SDET), Apps",
       "url": "https://jobs.apple.com/en-us/details/200644871-0836/software-development-engineer-test-sdet-apps?team=SFTWR",
       "first_seen": "2026-02-12T22:45:18.672933",
-      "last_seen": "2026-02-12T22:45:18.672934"
+      "last_seen": "2026-02-12T23:11:07.838098"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200646124-0836/finance-development-program-2027-internship-opportunities?team=STDNT": {
+      "company": "Apple",
+      "title": "Finance Development Program - 2027 Internship Opportunities",
+      "url": "https://jobs.apple.com/en-us/details/200646124-0836/finance-development-program-2027-internship-opportunities?team=STDNT",
+      "first_seen": "2026-02-12T23:11:07.837703",
+      "last_seen": "2026-02-12T23:11:07.837704"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200646124-0157/finance-development-program-2027-internship-opportunities?team=STDNT": {
+      "company": "Apple",
+      "title": "Finance Development Program - 2027 Internship Opportunities",
+      "url": "https://jobs.apple.com/en-us/details/200646124-0157/finance-development-program-2027-internship-opportunities?team=STDNT",
+      "first_seen": "2026-02-12T23:11:07.837723",
+      "last_seen": "2026-02-12T23:11:07.837724"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-12T22:45:18.673305",
-    "total_jobs": 429
+    "last_updated": "2026-02-12T23:11:07.838163",
+    "total_jobs": 431
   }
 }
