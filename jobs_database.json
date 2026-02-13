@@ -3016,10 +3016,24 @@
       "url": "https://jobs.apple.com/en-us/details/200646124-0157/finance-development-program-2027-internship-opportunities?team=STDNT",
       "first_seen": "2026-02-12T23:11:07.837723",
       "last_seen": "2026-02-13T05:06:06.443255"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200646562-0670/software-development-engineer-in-test-creativity-apps?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200646562-0670/software-development-engineer-in-test-creativity-apps?team=SFTWR",
+      "first_seen": "2026-02-13T06:52:24.983436",
+      "last_seen": "2026-02-13T06:52:24.983444"
+    },
+    "Apple||https://jobs.apple.com/en-us/details/200646562-3543/software-development-engineer-in-test-creativity-apps?team=SFTWR": {
+      "company": "Apple",
+      "title": "Software Development Engineer in Test, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200646562-3543/software-development-engineer-in-test-creativity-apps?team=SFTWR",
+      "first_seen": "2026-02-13T06:52:24.983451",
+      "last_seen": "2026-02-13T06:52:24.983452"
     }
   },
   "metadata": {
-    "last_updated": "2026-02-13T06:27:28.412674",
-    "total_jobs": 431
+    "last_updated": "2026-02-13T06:52:24.983766",
+    "total_jobs": 433
   }
 }
